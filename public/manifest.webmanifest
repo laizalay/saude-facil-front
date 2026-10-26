@@ -1,0 +1,18 @@
+{
+  "name": "Saúde Fácil",
+  "short_name": "Saúde Fácil",
+  "description": "Marque, acompanhe e cancele consultas no polo médico do Recife.",
+  "lang": "pt-BR",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F2F5F8",
+  "theme_color": "#17375E",
+  "categories": ["health", "medical"],
+  "icons": [
+    { "src": "/icones/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icones/icone-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icones/icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
